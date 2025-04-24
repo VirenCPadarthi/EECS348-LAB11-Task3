@@ -8,4 +8,8 @@ Sources: Lecture slides, Youtube, W3Schools
 
 Collaborators: None
   
-Purpose: Used Linux on Windows [WSL] to compile the c program and get the output file. 
+Purpose: 
+
+- Used Linux on Windows [WSL] to compile the c program and get the output file.
+
+- Pushed Docker Image to the Docker Hub 
